@@ -1,0 +1,21 @@
+.cart-wrapper {
+    /* position: relative; */
+    /* float: left; */
+    border: 1px solid;
+    padding: 20px 18px 40px 15px;
+    width: 25%;
+    margin: 12px 13px;
+}
+button.btn-wrapper {
+    border: 1px solid;
+    background: red;
+    color: aliceblue;
+    padding: 13px 13px 13px 13px;
+    position: relative;
+    top: 22px;
+}
+.add-to-cart {
+    position: absolute;
+    top: 2%;
+    right: 5%;
+}
